@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.aaa {
+    margin: 0%;
+    color: white;
+    font-size: 36px;
+    width: auto;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+#title {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(16, 87, 16);   
+}
