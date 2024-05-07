@@ -1,0 +1,18 @@
+input[type=button] {                   
+    background-color: #209124;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 60px;
+    margin-right: 1200px;
+}
+input[type=submit] {                   
+    background-color: #209124;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 60px;
+    margin-left: 1200px;
+}

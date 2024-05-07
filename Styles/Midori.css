@@ -1,0 +1,12 @@
+.title {
+    color: rgb(15, 100, 15);
+}
+input[type=submit] {
+    border-radius: 10px;
+    border: none;
+    padding: 14px;
+    color: white;
+    background-color: rgb(24, 109, 24);
+    font-size: 36px;
+    cursor: pointer;
+}

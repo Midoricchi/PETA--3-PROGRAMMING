@@ -1,0 +1,15 @@
+input[type=button] {                   
+    background-color: #209124;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 60px;
+}
+.bg-img {
+    background-image: url(/Images\ &\ Vid/SB.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}

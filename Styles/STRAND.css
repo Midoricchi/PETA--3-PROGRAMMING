@@ -1,0 +1,61 @@
+
+table, th, td {
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
+.SFHS {
+    align-content: center;
+    justify-content: center;
+}
+input[type=button] {                   
+    background-color: #209124;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 36px;
+}
+.A {
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.BC {
+    float: right;
+    margin-top: 250px ;
+}
+.E {
+    float: left;
+    margin-top: 200px;
+}
+.P {
+    float: right;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+.HB {
+    float: left;
+}
+.T {
+    text-align: right;
+    margin-top: 200px;
+}
+.U {
+    text-align: left;
+    margin-top: 400px;
+}
+.V {
+    text-align: right;
+    margin-top: 350px;
+}
+.W {
+    text-align: left;
+    margin-top: 400px;
+}
+.X {
+    text-align: right;
+    margin-top: 300px;
+}
+.Z {
+    margin-top: 50px;
+}
