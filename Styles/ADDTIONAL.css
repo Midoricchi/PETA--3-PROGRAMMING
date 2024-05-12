@@ -1,0 +1,33 @@
+body {
+    background-image: url(/Images\ &\ Vid/b.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+input[type=button] {                   
+    background-color: #209124;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 60px;
+    margin-top: 100px;
+}
+.text {
+    color: #6111e2;
+    border: 3px solid black;
+    border-radius: 30px;
+    background-color: rgba(198, 224, 216, 0.473);
+}
+.t {
+    color: rgb(247, 29, 29);
+}
+div {
+    padding: 40px;
+    background-color: #aaebac73;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}

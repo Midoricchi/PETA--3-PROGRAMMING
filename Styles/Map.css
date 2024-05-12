@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 input[type=button] {                   
     background-color: #209124;
     color: white;
@@ -7,9 +10,17 @@ input[type=button] {
     font-size: 60px;
 }
 .bg-img {
-    background-image: url(/Images\ &\ Vid/SB.jpg);
+    background-image: url(/Images\ &\ Vid/HB.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+.text {
+    border: none;
+    border-radius: 50px;
+    background-color: #1d7520;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: rgba(255, 255, 255, 0.589);
 }

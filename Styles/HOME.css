@@ -6,6 +6,7 @@ input[type=button] {
     cursor: pointer;
     font-size: 60px;
     margin-right: 1200px;
+    margin-top: 200px;
 }
 input[type=submit] {                   
     background-color: #209124;
@@ -15,4 +16,25 @@ input[type=submit] {
     cursor: pointer;
     font-size: 60px;
     margin-left: 1200px;
+}
+body {
+    background-image: url(/Images\ &\ Vid/entrance.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+.text {
+    color: black;
+    background-color: rgba(245, 245, 245, 0.658);
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.t {
+    color: #18611a;
+    background-color: rgba(245, 245, 245, 0.658);
+    border: 3px solid black;
 }

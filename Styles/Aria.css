@@ -37,22 +37,6 @@ body, html {
     margin-top: 3px;
     border-radius: 10px;
 }
-input [type=email], input[type=email], select {
-    width: 100%;
-    padding: 15px;
-    margin: 10px 0 22px 0;
-    border: none;
-    border-radius: 10px;
-    background: #f1f1f1;
-}
-input [type=password], input[type=password], select {
-    width: 100%;
-    padding: 15px;
-    margin: 10px 0 22px 0;
-    border: none;
-    border-radius: 10px;
-    background: #f1f1f1;
-}
 input [type=text], input[type=text], select {
     width: 100%;
     padding: 15px;
@@ -60,6 +44,9 @@ input [type=text], input[type=text], select {
     border: none;
     border-radius: 10px;
     background: #f1f1f1;
+}
+input [type=text], select {
+    cursor: pointer;
 }
 input[type=submit] {
     height: 50px;
@@ -82,7 +69,4 @@ div {
 .context {
         text-align: center;
         color: #125015;
-}
-.checkbox {
-    cursor: pointer;
 }

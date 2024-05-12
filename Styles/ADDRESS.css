@@ -1,3 +1,9 @@
+body {
+    background-image: url(/Images\ &\ Vid/a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 input[type=button] {                   
     background-color: #209124;
     color: white;
@@ -5,4 +11,34 @@ input[type=button] {
     border-radius: 10px;
     cursor: pointer;
     font-size: 60px;
+}
+.a {
+    border: 3px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    color: #e9dfebcb;
+}
+p {
+    font-size: 14px;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: rgba(245, 245, 245, 0.274);
+    color: black;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.text {
+    color: rgb(235, 211, 211);
+    background-color: rgba(4, 73, 4, 0.589);
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.t {
+    color: green;
+    background-color: rgba(210, 233, 126, 0.596);
+    padding: 5px;
+    margin-left: 800px;
+    margin-right: 800px;
+    border: 3px solid black;
+    border-radius: 35px;
 }
